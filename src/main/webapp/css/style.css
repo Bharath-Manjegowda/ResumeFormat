@@ -1,0 +1,44 @@
+body{
+	background: #e0e0e0;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+input{
+	height: 27px;
+}
+.skillDetailsLabel, .projectDetailsLabel, .personalDetailsLabel{
+	position: relative;
+    text-align: center;
+}
+.tableDefault{
+	width: 50%;
+    background: #b1b1b1;
+    border-radius: 3px;
+    position: relative;
+}
+table.tableDefault td{
+	width: 500px; 
+}
+#submit, .addProject{
+	background: #364346;
+    color: white;
+    border-radius: 6PX;
+    height: 30px;
+    width: 85px;
+    position: relative;
+    left: 40%;
+}
+#addProject{
+	left: 40%;
+}
+#skillsTable{
+	top: 55%;
+}
+.content{
+	width: 100%;
+    height: 100%;
+}
+.projectTable{
+	margin-bottom: 7px;
+}
+
+
